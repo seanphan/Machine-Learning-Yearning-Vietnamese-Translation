@@ -20,7 +20,7 @@ Nếu một từ chưa có trong bảng thuật ngữ dưới đây, các bạn 
 | benchmark                         | đánh giá xếp hạng                                              | [#87](http://bit.ly/2BvfPYA)                               |
 | bias (bias as variance)           | độ chệch                                                       | [#125](http://bit.ly/32HJI3S)                              |
 | big data                          | big data                                                       |                                                            |
-| Blackbox dev set                  |                                                                |                                                            |
+| Blackbox dev set                  | tệp phát triển Blackbox                                                               |                                                            |
 | classifier                        | bộ phân loại                                                   |                                                            |
 | constrain                         | ràng buộc                                                      |                                                            |
 | cross validation                  | kiểm định chéo                                                 |                                                            |
@@ -32,7 +32,7 @@ Nếu một từ chưa có trong bảng thuật ngữ dưới đây, các bạn 
 | error rate                        | tỉ lệ lỗi                                                      |                                                            |
 | evaluation metric                 | phép đánh giá                                                  |                                                            |
 | example                           | mẫu                                                            |                                                            |
-| Eyeball dev set                   |                                                                |                                                            |
+| Eyeball dev set                   | tệp phát triển Eyeball                                                               |                                                            |
 | F1 score                          | chỉ số F1                                                      |                                                            |
 | false negative                    | âm tính giả                                                    |                                                            |
 | false positive                    | dương tính giả                                                 |                                                            |
@@ -43,6 +43,7 @@ Nếu một từ chưa có trong bảng thuật ngữ dưới đây, các bạn 
 | gradient descent                  | hạ dốc                                                         | [#87](http://bit.ly/2BvfPYA)                               |
 | heuristic                         | thực nghiệm                                                    |                                                            |
 | hidden unit                       | nút ẩn                                                         |                                                            |
+| hyperparameter                    | siêu tham số                                                    |                                                            |
 | layer                             | tầng                                                           |                                                            |
 | learning curve                    | đồ thị quá trình học                                                  | [#87](http://bit.ly/2BvfPYA)                               |
 | learning algorithm                | thuật toán học                                                 |                                                            |
